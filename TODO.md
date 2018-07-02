@@ -1,4 +1,5 @@
 Day 1: 
 ------ 
-goo.gl/Eq9Bwc
-slides.com/hermesvalenciano
+[Diapos](slides.com/hermesvalenciano)
+
+[Day1](https://goo.gl/Eq9Bwc)
