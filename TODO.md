@@ -15,3 +15,6 @@ http://www.cs.toronto.edu/~delve/data/datasets.html
 
 http://kaggle.com/datasets
 
+Mine:
+-----
+[Dataset Honeybees](https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide)
