@@ -18,3 +18,9 @@ http://kaggle.com/datasets
 Mine:
 -----
 [Dataset Honeybees](https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide)
+
+Proyecto:
+---------
+Comprimir en .zip a:
+- hermes.valenciano@jedi.upc.com
+- albertoxp1@gmail.com
